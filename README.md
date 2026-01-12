@@ -7,7 +7,9 @@
 - Experience in architecture & BIM projects
 - Exposure to web development and AI/ML during my master's studies
 - Cross-cultural experience across 🇨🇳 China, 🇮🇪 Ireland, and 🇯🇵 Japan
-- 🇨🇳 🇮🇪 🇯🇵
+<img src="https://flagcdn.com/w20/cn.png"> 
+<img src="https://flagcdn.com/w20/ie.png"> 
+<img src="https://flagcdn.com/w20/jp.png">
 
 
 ### 🔍 Current Focus
