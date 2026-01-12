@@ -6,7 +6,7 @@
 - Engineering & Industrial Design
 - Experience in architecture & BIM projects
 - Exposure to web development and AI/ML during my master's studies
-- Cross-cultural experience across <img src="https://flagcdn.com/w20/cn.png"> China, <img src="https://flagcdn.com/w20/ie.png"> Ireland, and <img src="https://flagcdn.com/w20/jp.png"> Japan 
+- Cross-cultural living and work experience across <img src="https://flagcdn.com/w20/cn.png"> China, <img src="https://flagcdn.com/w20/ie.png"> Ireland, and <img src="https://flagcdn.com/w20/jp.png"> Japan 
  
 
 
