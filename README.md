@@ -1,7 +1,19 @@
 ## Hi there 👋 I'm Mei
 **Design × Engineering · Computer Vision · Web**
 
+### 🌱 Background
 
+- Engineering & Industrial Design
+- Experience in architecture & BIM projects
+- Exposure to web development and AI/ML during my master's studies
+- Cross-cultural experience across 🇨🇳 China, 🇮🇪 Ireland, and 🇯🇵 Japan
+
+
+### 🔍 Current Focus
+
+- Working on image processing (C++)
+- Building my personal website (Astro)
+- Learning **data science** and **ML** (Python)
 <!--
 **neuimay/neuimay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
