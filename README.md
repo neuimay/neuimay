@@ -42,7 +42,7 @@
 ![3ds Max](https://img.shields.io/badge/-3ds%20Max-333333?style=flat&logo=autodesk)
 ![SketchUp](https://img.shields.io/badge/-SketchUp-333333?style=flat&logo=sketchup&logoColor=white)
 - 🎨 &#160; (Visual & Graphic)
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobephotoshop&logoColor=white)
+  - ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobephotoshop&logoColor=white)
 
 <!--
 **neuimay/neuimay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
