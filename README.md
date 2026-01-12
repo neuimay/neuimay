@@ -15,6 +15,19 @@
 - Working on image processing (C++)
 - Building my personal website (Astro)
 - Learning **data science** and **ML** (Python)
+
+### 🛠 Tech Stack
+- 💻 &#160;
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus&logoColor=00599C)
+- 🌐 &#160;
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+![Astro](https://img.shields.io/badge/-Astro-333333?style=flat&logo=astro&logoColor=FF5D01)
+
+
 <!--
 **neuimay/neuimay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
