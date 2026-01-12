@@ -12,7 +12,7 @@
 
 ### 🔍 Current Focus
 
-- Working on image processing (C++)
+- Working on **image processing** (C++)
 - Building my personal website (Astro)
 - Learning **data science** and **ML** (Python)
 
@@ -34,6 +34,15 @@
 - 🛢 &#160;
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
+### 🎨 Design & BIM Tools
+- 🏗 &#160; (Architecture & BIM)
+![Rhinoceros](https://img.shields.io/badge/-Rhinoceros-333333?style=flat&logo=rhinoceros&logoColor=white)
+![Revit](https://img.shields.io/badge/-Revit-333333?style=flat&logo=autodesk)
+![AutoCAD](https://img.shields.io/badge/-AutoCAD-333333?style=flat&logo=autodesk)
+![3ds Max](https://img.shields.io/badge/-3ds%20Max-333333?style=flat&logo=autodesk)
+![SketchUp](https://img.shields.io/badge/-SketchUp-333333?style=flat&logo=sketchup&logoColor=white)
+- 🎨 &#160; (Visual & Graphic)
+![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobephotoshop&logoColor=white)
 
 <!--
 **neuimay/neuimay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
