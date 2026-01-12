@@ -36,11 +36,11 @@
 
 ### 🎨 Design & BIM Tools
 - 🏗 &#160; (Architecture & BIM)
-![Rhinoceros](https://img.shields.io/badge/-Rhinoceros-333333?style=flat&logo=rhinoceros&logoColor=white)
-![Revit](https://img.shields.io/badge/-Revit-333333?style=flat&logo=autodesk)
-![AutoCAD](https://img.shields.io/badge/-AutoCAD-333333?style=flat&logo=autodesk)
-![3ds Max](https://img.shields.io/badge/-3ds%20Max-333333?style=flat&logo=autodesk)
-![SketchUp](https://img.shields.io/badge/-SketchUp-333333?style=flat&logo=sketchup&logoColor=white)
+ - ![Rhinoceros](https://img.shields.io/badge/-Rhinoceros-333333?style=flat&logo=rhinoceros&logoColor=white)
+ - ![Revit](https://img.shields.io/badge/-Revit-333333?style=flat&logo=autodesk)
+ - ![AutoCAD](https://img.shields.io/badge/-AutoCAD-333333?style=flat&logo=autodesk)
+ - ![3ds Max](https://img.shields.io/badge/-3ds%20Max-333333?style=flat&logo=autodesk)
+ - ![SketchUp](https://img.shields.io/badge/-SketchUp-333333?style=flat&logo=sketchup&logoColor=white)
 - 🎨 &#160; (Visual & Graphic)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobephotoshop&logoColor=white)
 
