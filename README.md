@@ -11,12 +11,13 @@
 
 ### 🔍 Current Focus
 
+<!-- Any image aligned to the right. Beware the width -->
+<img width="30%" align="right" alt="Github" src="https://raw.githubusercontent.com/neuimay/neuimay/main/assets/ascii_dog_large.png" />
+
 - Working on **image processing** (C++)
 - Building my personal website (Astro)
 - Learning **data science** and **ML** (Python)
 
-<!-- Any image aligned to the right. Beware the width -->
-<img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/neuimay/neuimay/main/assets/ascii_dog_large.png" />
 
 ### 🛠 Tech Stack
 - 💻 &#160;
