@@ -9,7 +9,7 @@
 - Cross-cultural living and work experience across <img src="https://flagcdn.com/w20/cn.png"> China, <img src="https://flagcdn.com/w20/ie.png"> Ireland, and <img src="https://flagcdn.com/w20/jp.png"> Japan 
  
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/neuimay/neuimay/main/assets/dog1.png" />
+<img width="20%" align="right" alt="Github" src="https://raw.githubusercontent.com/neuimay/neuimay/main/assets/dog1.png" />
 
 ### 🔍 Current Focus
 
