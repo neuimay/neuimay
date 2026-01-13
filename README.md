@@ -8,14 +8,15 @@
 - Exposure to web development and AI/ML during my master's studies
 - Cross-cultural living and work experience across <img src="https://flagcdn.com/w20/cn.png"> China, <img src="https://flagcdn.com/w20/ie.png"> Ireland, and <img src="https://flagcdn.com/w20/jp.png"> Japan 
  
-<!-- Any image aligned to the right. Beware the width -->
-<img width="20%" align="right" alt="Github" src="https://raw.githubusercontent.com/neuimay/neuimay/main/assets/dog1.png" />
 
 ### 🔍 Current Focus
 
 - Working on **image processing** (C++)
 - Building my personal website (Astro)
 - Learning **data science** and **ML** (Python)
+
+<!-- Any image aligned to the right. Beware the width -->
+<img width="15%" align="right" alt="Github" src="https://raw.githubusercontent.com/neuimay/neuimay/main/assets/dog1.png" />
 
 ### 🛠 Tech Stack
 - 💻 &#160;
