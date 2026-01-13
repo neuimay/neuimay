@@ -16,7 +16,7 @@
 - Learning **data science** and **ML** (Python)
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="15%" align="right" alt="Github" src="https://raw.githubusercontent.com/neuimay/neuimay/main/assets/dog.png" />
+<img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/neuimay/neuimay/main/assets/ascii_dog_large.png" />
 
 ### 🛠 Tech Stack
 - 💻 &#160;
