@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:yuanmei1210@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-555?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" />
   </a>
 </p>
 
