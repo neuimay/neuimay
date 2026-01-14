@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Mei
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/neuimay)
-[![Website](https://img.shields.io/badge/-Website-000?style=flat&logo=google-chrome&logoColor=white)](https://www.neuimay.com)
+[![Blog](https://img.shields.io/badge/-Website-000?style=flat&logo=google-chrome&logoColor=white)](https://www.neuimay.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/meiyuan1210/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:yuanmei1210@gmail.com)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:yuanmei1210@outlook.com)
