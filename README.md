@@ -1,12 +1,3 @@
-## Hi there 👋 I'm Mei
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/neuimay)
-[![Blog](https://img.shields.io/badge/-Blog-111?style=flat&logo=hashnode&logoColor=white)](https://www.neuimay.com)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/meiyuan1210/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:yuanmei1210@gmail.com)
-[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:yuanmei1210@outlook.com)
-
-**Design × Engineering · Computer Vision · Web**
-
 <h2 align="center">Hi there 👋 I'm Mei</h2>
 
 <p align="center">
@@ -22,6 +13,9 @@
   </a>
   <a href="https://www.linkedin.com/in/meiyuan1210/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:yuanmei1210@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-555?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -63,14 +57,14 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
 ### 🎨 Design & BIM Tools
-- 🏗 &#160; (Architecture & BIM)
-  - ![Rhinoceros](https://img.shields.io/badge/-Rhinoceros-333333?style=flat&logo=rhinoceros&logoColor=white)
+- 🏗 &#160; 
+![Rhinoceros](https://img.shields.io/badge/-Rhinoceros-333333?style=flat&logo=rhinoceros&logoColor=white)
 ![Revit](https://img.shields.io/badge/-Revit-333333?style=flat&logo=autodesk)
 ![AutoCAD](https://img.shields.io/badge/-AutoCAD-333333?style=flat&logo=autodesk)
 ![3ds Max](https://img.shields.io/badge/-3ds%20Max-333333?style=flat&logo=autodesk)
 ![SketchUp](https://img.shields.io/badge/-SketchUp-333333?style=flat&logo=sketchup&logoColor=white)
-- 🎨 &#160; (Visual & Graphic)
-  - ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobephotoshop&logoColor=white)
+- 🎨 &#160;
+![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobephotoshop&logoColor=white)
 
 <!--
 **neuimay/neuimay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
