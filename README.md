@@ -7,6 +7,25 @@
 
 **Design × Engineering · Computer Vision · Web**
 
+<h2 align="center">Hi there 👋 I'm Mei</h2>
+
+<p align="center">
+  <b>Design × Engineering · Computer Vision · Web</b>
+</p>
+
+<p align="center">
+  <a href="https://www.neuimay.com">
+    <img src="https://img.shields.io/badge/-Blog-111?style=flat&logo=hashnode&logoColor=white" />
+  </a>
+  <a href="https://github.com/neuimay">
+    <img src="https://img.shields.io/badge/-GitHub-000?style=flat&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/meiyuan1210/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+
 ### 🌱 Background
 
 - Engineering & Industrial Design
