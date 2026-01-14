@@ -17,6 +17,9 @@
   <a href="mailto:yuanmei1210@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" />
   </a>
+  <a href="mailto:yuanmei1210@outlook.com">
+    <img src="https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white" />
+  </a>
 </p>
 
 
