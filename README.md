@@ -30,12 +30,12 @@
 
 ### 🔍 Current Focus
 
-<!-- Any image aligned to the right. Beware the width -->
-<img width="30%" align="right" alt="Github" src="https://raw.githubusercontent.com/neuimay/neuimay/main/assets/dog_wag.gif" />
-
 - Working on **image processing** (C++)
 - Building my personal website (Astro)
 - Learning **data science** and **ML** (Python)
+
+<!-- Any image aligned to the right. Beware the width -->
+<img width="30%" align="right" alt="Github" src="https://raw.githubusercontent.com/neuimay/neuimay/main/assets/dog_wag.gif" />
 
 
 ### 🛠 Tech Stack
